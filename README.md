@@ -1,9 +1,9 @@
 # PAY-ROLL-system-project
 **Introduction**\
--->A simple payroll system in C++ is a program that automates the process of calculating and processing employee salaries and wages. It typically includes features such as employee record tracking, calculations, and payroll generation.
+A simple payroll system in C++ is a program that automates the process of calculating and processing employee salaries and wages. It typically includes features such as employee record tracking, calculations, and payroll generation.
 
 **Features**\
--->Employee record tracking
+Employee record tracking
 Calculation of salaries and wages
 Payroll generation
 
